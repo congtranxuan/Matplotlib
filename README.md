@@ -1,4 +1,5 @@
-Matplotlib Homework 
+# Matplotlib Homework
+
 I. Pymaceuticals Analysis:
   1. After using the drug for 45 days, the mice was died gradually regarding of the treatment of all drugs.
   2. There are only two drug proving positive effect that reduces the size of tumor.
