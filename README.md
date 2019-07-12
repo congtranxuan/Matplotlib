@@ -17,3 +17,16 @@ I. Pymaceuticals Analysis:
   
   ![](Images/Percentchange.png)
   
+
+II. Pyber Analysis:
+  1. 
+  
+  ![](Images/Pyberdata2016.jpg)
+  
+  
+  ![](Images/Percentfares.jpg)
+  
+  
+  ![](Images/Percentrides.jpg)
+  
+  ![](Images/Percentdrivers.jpg)
