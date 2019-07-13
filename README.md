@@ -26,7 +26,6 @@ II. Pyber Analysis:
   
   ![](Images/Percentfares.jpg)
   
-  
-  ![](Images/Percentrides.jpg)
+    ![](Images/Percentrides.jpg)
   
   ![](Images/Percentdrivers.jpg)
