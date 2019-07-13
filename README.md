@@ -19,7 +19,9 @@ I. Pymaceuticals Analysis:
   
 
 II. Pyber Analysis:
-  1. 
+  1. Most of cities in data are urban, about half of total.
+  2. In rural cities, there are most long trips, so the average fare in rural are highest among city types in analysis.
+  3. Although suburban cities are about one sixth of total cities, the total riders and fares are almost 30% of total.
   
   ![](Images/Pyberdata2016.jpg)
   
